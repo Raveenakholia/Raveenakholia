@@ -1,8 +1,9 @@
 ### Hi there I'm Raveena Kholia 👋
 
-🔭 I’m currently working as Reactjs developer.
+🔭 I’m a Reactjs developer.
 🔭 I’m currently working on Burger App.
 🌱 I’m currently exploring more in FrontEnd Development.
+
 
 <!--
 **Raveenakholia/Raveenakholia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
