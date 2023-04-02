@@ -1,7 +1,7 @@
 ### Hi there I'm Raveena Kholia 👋
 
 🔭 I’m a Reactjs developer.
-🔭 I’m currently working on Kanban Board App.
+🔭 I’m currently working on Namaste-React App
 🌱 I’m currently exploring more in FrontEnd Development.
 
 
