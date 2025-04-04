@@ -1,8 +1,8 @@
 ### Hi there I'm Raveena Kholia 👋
 
-🔭 I’m a Reactjs developer.
-🔭 I’m currently working on Namaste-React App
-🌱 I’m currently exploring more in FrontEnd Development.
+🔭 I’m a ReactJS developer.
+🔭 I’m currently working on a Netflix GPT cloning App
+🌱 I’m currently exploring FrontEnd Development.
 
 
 <!--
