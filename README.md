@@ -1,7 +1,7 @@
 ### Hi there I'm Raveena Kholia 👋
 
 🔭 I’m a ReactJS developer.
-🔭 I’m currently working on a Netflix GPT cloning App, and side by side, I am working on my Logo for my  portfolio website
+🔭 I’m currently working on a Netflix GPT cloning App with the guidance of Akshay Saini and side by side, I am working on my Logo for my  portfolio website
 🌱 I’m currently exploring FrontEnd Development.
 
 
