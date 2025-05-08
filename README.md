@@ -4,7 +4,7 @@
 🚀 I’m currently working on a Netflix GPT cloning App with the guidance of Akshay Saini (My mentor).
 🎯 “Passionately exploring frontend development, one project at a time.”
 🎨 Designing a logo that embodies my passion for frontend creativity.
-🚀 Constantly evolving—Frontend development is my passion, React is my craft in progress.
+⚛️ Constantly evolving—Frontend development is my passion, React is my craft in progress.
 
 
 
